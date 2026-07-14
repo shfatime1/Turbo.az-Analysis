@@ -1,3 +1,5 @@
+Live Demo :   https://huggingface.co/spaces/shfatime/turboaz-analytics
+
 ---
 title: Turbo.az Data Insights
 emoji: 🚀
